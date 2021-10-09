@@ -1,7 +1,7 @@
 
 <div align="center" />
 
-[![Micaelli GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiqueYudji&count_private=true&show_icons=true&theme=midnight-purple&hide=prs,contribs)](https://github.com/micaellimedeiros/github-readme-stats)
+[![KaiqueYudji GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiqueYudji&count_private=true&show_icons=true&theme=midnight-purple&hide=prs,contribs)](https://github.com/micaellimedeiros/github-readme-stats)
  <div>
    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueYudji&layout=compact&langs_count=7&theme=midnight-purple&hide=prs"/>
   </div>  
