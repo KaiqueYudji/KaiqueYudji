@@ -1,21 +1,21 @@
 ## Oiii! Eu sou o Kaique Yudji
  <br/>
  <div>
-  <a href="https://github.com/Kaio-Silva">
-  <img height="180em"width="580em" src="https://github-readme-stats.vercel.app/api?username=KaiqueYudji&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/KaiqueYudji">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaiqueYudji&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="350px" align="right" alt="Computador">
 </div>
   <div>
-   <img height="180em" width="580em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueYudji&layout=compact&langs_count=7&theme=github_dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueYudji&layout=compact&langs_count=7&theme=github_dark"/>
   </div>  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Kaio-Csharp" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">
-  <img align="center" alt="Kaio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kaio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Kaio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kaio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kaio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Kaio-Csharp" height="30" width="30" src="https://camo.githubusercontent.com/e9141be13e6bea8c50af6d48f64700246faed666040ead23e74d4fc27bf411e3/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67">
+  <img align="center" alt="yudji-Csharp" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">
+  <img align="center" alt="yudji-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="yudji-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="yudji-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="yudji-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="yudji-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="yudji-Csharp" height="30" width="30" src="https://camo.githubusercontent.com/e9141be13e6bea8c50af6d48f64700246faed666040ead23e74d4fc27bf411e3/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67">
 </div>
   
   ##
