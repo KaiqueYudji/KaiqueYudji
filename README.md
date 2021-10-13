@@ -11,3 +11,10 @@
 🚀 
 I am currently working with Node, ReactJS, JavaScript, SQL, C# | 💻 Learning is continuous and there will always be a next level
 
+
+## Formas de Contato:
+>yudjikaique@gmail.com
+><br/>
+>https://www.instagram.com/yudjii_/
+><br/>
+>+55(11)99730-5590
