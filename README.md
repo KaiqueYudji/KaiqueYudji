@@ -1,6 +1,6 @@
 ## Hi, I'm Kaique Yudji!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/kaique-yudji-861096225/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-yudji-861096225/)
 [![Gmail](https://img.shields.io/badge/Gmail-b24020?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiqueyudji.developer@gmail.com)
 
 <div style="display: flex">
