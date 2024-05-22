@@ -18,7 +18,7 @@
   <img align="center" alt="fastapi" src="https://img.shields.io/badge/FastApi-009485?style=for-the-badge&logo=fastapi&logoColor=white" />
 </div><br/>
 
-Passionate about technology, education and changing people's lives through them.
+### Passionate about technology, education and changing people's lives through them.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=footer"/>
 
