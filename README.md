@@ -1,7 +1,7 @@
 ## Hi, I'm Kaique Yudji!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com/sujeitoprogramador)
-[![Gmail](https://img.shields.io/badge/Gmail-b24020?style=for-the-badge&logo=gmail&logoColor=white)](https://twitch.tv/fragabr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/kaique-yudji-861096225/))
+[![Gmail](https://img.shields.io/badge/Gmail-b24020?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/2/#inbox)
 
 <div style="display: flex">
  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=KaiqueYudji&theme=tokyonight&mode=weekly" />
