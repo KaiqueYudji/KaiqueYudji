@@ -8,7 +8,7 @@
  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=KaiqueYudji&show_icons=true&theme=tokyonight&layout=compact" />
 </div>
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use in my daily life
 
 <div style="display: inline_block">
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -18,7 +18,7 @@
   <img align="center" alt="fastapi" src="https://img.shields.io/badge/FastApi-009485?style=for-the-badge&logo=fastapi&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Passionate about technology, education and changing people's lives through them.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=footer"/>
 
