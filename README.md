@@ -1,9 +1,9 @@
 
-<p align="center">Hi! I'm Kaique Yudji <br><br> A software developer passionate in solve complex problems</p>&nbsp;
+<p align="center">Hi! I'm Kaique Yudji <br><br> A software developer passionate in solve complex problems, I'm always looking for new challange</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-KaiqueYudji.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
