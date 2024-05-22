@@ -5,7 +5,7 @@
 
 <div style="display: flex">
  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=KaiqueYudji&theme=tokyonight&mode=weekly" />
- <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=KaiqueYudji&show_icons=true&theme=radical&layout=compact" />
+ <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=KaiqueYudji&show_icons=true&theme=tokyonight&layout=compact" />
 </div>
 
 ## Tecnologias que eu uso no meu dia
