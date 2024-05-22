@@ -1,6 +1,6 @@
 ## Hi, I'm Kaique Yudji!
 
-[![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com/sujeitoprogramador)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
 
 ## Tecnologias que eu uso no meu dia
