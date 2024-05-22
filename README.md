@@ -3,6 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com/sujeitoprogramador)
 [![Gmail](https://img.shields.io/badge/Gmail-b24020?style=for-the-badge&logo=gmail&logoColor=white)](https://twitch.tv/fragabr)
 
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=KaiqueYudji&show_icons=true&theme=radical&layout=compact" />
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
