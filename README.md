@@ -21,5 +21,5 @@
 
 ### Passionate about technology, education and changing people's lives through them.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=90EE90&height=120&section=footer"/>
 
